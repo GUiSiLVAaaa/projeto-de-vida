@@ -1,1 +1,2 @@
-# projeto-de-vida
+# js-projeto-de-vida
+Projeto de vida: organizando objetivos futuros com matematica aplicada. Página em HTML, CSS e JavaScript
